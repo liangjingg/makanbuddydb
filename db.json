@@ -8,10 +8,18 @@
   "profile": {
     "name": "typicode"
   },
-  "users":{
-    "id": 1,
-    "email": "test@gmail.com",
-    "username": "test",
-    "password": "testpassword"
-  }
+  "users": [
+    {
+      "id": 1,
+      "email": "test1@gmail.com",
+      "username": "test1",
+      "password": "testpassword1"
+    },
+    {
+      "id": 2,
+      "email": "test2@gmail.com",
+      "username": "test2",
+      "password": "testpassword2"
+    }
+  ]
 }
