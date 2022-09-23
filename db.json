@@ -1,4 +1,4 @@
- {
+{
   "users": [
     {
       "id": 1,
@@ -12,5 +12,34 @@
       "username": "test2",
       "password": "testpassword2"
     }
-  ]
+  ],
+  "reservation": [
+    {
+      "id": 1,
+      "userid": 1,
+      "place_id": "ChIJ7xlFdKwT2jERXrseJIzS6tI",
+      "date": "12/10/2022",
+      "time": "1130",
+      "restaurant_name": "Citrus By The Pool",
+      "pax": 2,
+    },
+    {
+      "id": 2,
+      "userid": 1,
+      "place_id": "ChIJJfLIHmMT2jERL8KjuVQjzck",
+      "date": "25/12/2022",
+      "time": "530",
+      "restaurant_name": "Ivan's Carbina",
+      "pax": 2,
+    },
+    {
+      "id": 3,
+      "userid": 2,
+      "place_id": "ChIJDVTpC_8S2jERSz_upFj7WYo",
+      "date": "2/9/2022",
+      "time": "1130",
+      "restaurant_name": "Rasa Istimewa Waterfront Restaurant",
+      "pax": 2,
+    }
+  ],
 }
