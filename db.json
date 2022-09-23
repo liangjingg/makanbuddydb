@@ -1,13 +1,4 @@
  {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
   "users": [
     {
       "id": 1,
@@ -20,28 +11,6 @@
       "email": "test2@gmail.com",
       "username": "test2",
       "password": "testpassword2"
-    }
-  ],
-  "reservation": [
-    {
-      "id": 1,
-    },
-    {
-      "id": 2,
-    },
-    {
-      "id": 3,
-    }
-  ],
-  "order": [
-    {
-      "id": 1,
-    },
-    {
-      "id": 2,
-    },
-    {
-      "id": 3,
     }
   ]
 }
